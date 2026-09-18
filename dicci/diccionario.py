@@ -1,2 +1,6 @@
 #Leer diccionario
-#Calcular promedio
+#Calcular promedio Desarrolador1 aqui
+
+diccionario = {"nombre":"desarrollador1"}
+
+               
