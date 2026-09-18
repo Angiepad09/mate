@@ -1,0 +1,2 @@
+#Leer diccionario
+#Calcular promedio
